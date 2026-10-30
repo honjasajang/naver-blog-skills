@@ -1,0 +1,11 @@
+{
+  "name": "naver-blog-skills",
+  "version": "0.1.0",
+  "private": true,
+  "description": "혼자사장의 네이버 블로그 글쓰기 공정 — Claude Code Agent Skills",
+  "type": "module",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "naver-blog-skills",
+  "description": "네이버 블로그 글쓰기 공정 — 검색어 고르기(자리×수요×가족) → 상위 글 읽기 → 규격에 맞춰 쓰기 → 기계 검사 → 사람이 붙여넣기 → 성적표. 1인 사업자·마케터용. 네이버 공식 API만, 자동 게재 없음.",
+  "version": "0.1.0",
+  "author": {
+    "name": "혼자사장",
+    "url": "https://github.com/honjasajang"
+  },
+  "license": "MIT",
+  "keywords": ["네이버 블로그", "블로그 자동화", "블로그 세팅", "클로드 코드", "Claude Code", "1인 사업자", "마케팅", "SEO"]
+}

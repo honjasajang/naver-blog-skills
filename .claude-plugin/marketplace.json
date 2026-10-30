@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "honjasajang",
+  "description": "혼자사장의 Claude Code 도구 — 혼자 일하는 사장이 혼자 돌리는 블로그 공정",
+  "owner": {
+    "name": "혼자사장"
+  },
+  "plugins": [
+    {
+      "name": "naver-blog-skills",
+      "description": "네이버 블로그 글쓰기 공정 6단계(검색어 고르기·상위 글 읽기·초안·검사·붙여넣기·성적표). 공식 API만, 발행은 사람이.",
+      "author": { "name": "혼자사장" },
+      "category": "marketing",
+      "source": "./",
+      "homepage": "https://github.com/honjasajang/naver-blog-skills"
+    }
+  ]
+}
